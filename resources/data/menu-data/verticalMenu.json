@@ -1,0 +1,35 @@
+{
+  "menu": [
+
+    {
+      "url": "home",
+      "name": "Home",
+      "icon": "home",
+      "slug": "home"
+    },
+    {
+      "url": "users",
+      "name": "Users",
+      "icon": "users",
+      "slug": "users"
+    },
+    {
+      "url": "category",
+      "name": "Food Categories",
+      "icon": "globe",
+      "slug": "category"
+    },
+    {
+      "url": "food",
+      "name": "Foods",
+      "icon": "wind",
+      "slug": "Foods"
+    },
+    {
+      "url": "post",
+      "name": "Posts",
+      "icon": "globe",
+      "slug": "Posts"
+    }
+  ]
+}
